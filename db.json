@@ -1,0 +1,20 @@
+{
+    "posts" : [
+        {
+            "id" : "1",
+            "title" : "Third Post",
+            "alias" : "third-post",
+            "link" : "/posts/third-post",
+            "excerpt" : "Lorem third post",
+            "body" : "Lorem body third post"
+        },
+        {
+            "id" : "2",
+            "title" : "Last Post",
+            "alias" : "last-post",
+            "link" : "/posts/last-post",
+            "excerpt" : "Lorem last post",
+            "body" : "Lorem body last post"
+        }
+    ]
+}

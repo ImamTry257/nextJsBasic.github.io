@@ -1,0 +1,11 @@
+install next js
+npx create-next-app my-blog
+
+running app
+npm run dev
+
+install json-server
+npm install -g json-server
+
+running json-server
+json-server --watch db.json --port 3001
